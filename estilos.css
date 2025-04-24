@@ -5,13 +5,23 @@
 .genero{
   color:springgreen;
   font-weight: bold;
+  background-color: darkgrey;
 }
 p strong{
-  background-color: white;
+  background-color: darkgrey;
 }
 .river{
   color: red;
 }
 .bui{
   color:blue;
+}
+h3,
+.jugadores{
+  color: darkgrey;
+}
+
+p strong em{
+  color:yellow;
+  background-color: black;
 }
