@@ -6,3 +6,12 @@
   color:springgreen;
   font-weight: bold;
 }
+p strong{
+  background-color: white;
+}
+.river{
+  color: red;
+}
+.bui{
+  color:blue;
+}
