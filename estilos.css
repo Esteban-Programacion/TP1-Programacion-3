@@ -20,8 +20,13 @@ h3,
 .jugadores{
   color: darkgrey;
 }
-
-p b em{
-  color:yellow;
-  background-color: black;
+.botonpagina{
+  background-color: blueviolet;
+  border: none;
+  color: aliceblue;
+  padding: 15px 32px;
+  text-decoration: none;
+  font-size: 12px;
+  border-radius: 12px;
+  font-family: sans-serif;
 }
