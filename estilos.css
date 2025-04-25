@@ -21,7 +21,7 @@ h3,
   color: darkgrey;
 }
 
-p strong em{
+p b em{
   color:yellow;
   background-color: black;
 }
